@@ -1,6 +1,7 @@
-### Hi there 👋
+### You made it here! 👋
 
-<!--
+## ⚡ The non-weird stuff.
+***
 **the-techgurl/the-techgurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
