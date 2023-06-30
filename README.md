@@ -10,8 +10,7 @@
 - ⚡ Fun fact: I have a healthy addiction to kdramas/kpop and I dance way better in my head.
 
  ### Design Blog Articles.
- ---
-  {ACCESSIBILITY A11Y- Color}(https://medium.com/design-bootcamp/accessibility-a11y-color-3f8e73d120bb)
+  ***{ACCESSIBILITY A11Y- Color}(https://medium.com/design-bootcamp/accessibility-a11y-color-3f8e73d120bb)
   {Stop surprising your users!}(https://medium.com/design-bootcamp/stop-surprising-your-users-68b65a481167)
   {STORYBOARD IN UX}(https://medium.com/@Tech_gurl/storyboard-in-ux-b2d3e1e49535)
 
