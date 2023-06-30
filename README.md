@@ -1,6 +1,6 @@
 ### You made it here! 👋
 
-## ***⚡ The non-weird stuff.
+##(***)⚡ The non-weird stuff.
 - ✨ I'm Rhoda Michael ✨
 - 🔭 I’ve been told I have an impressive work drive and dedication, you'd get to see that for yourself soon!
 - 🌱 A lover of Researching users and their motivations, bidding my time crafting and delivering simple yet practical designs.
