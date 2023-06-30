@@ -8,8 +8,6 @@
 - 👯 I get enthusiastic about building new stuff and collaborating on projects...
 - 🤔 The one person on your team to ask questions later. I process information differently.
 - 💬 A mental health advocate, I express myself through writing and writing.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have a healthy addiction to kdramas/kpop, a bookworm, and I dance way better in my head...
 ***
 
@@ -39,7 +37,7 @@
   ***
 
   ### 📫How to reach me
-  [Find my articles here](https://medium.com/@Tech_gurl)
+  Find my articles here [Medium](https://medium.com/@Tech_gurl)
 
  <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/rhodamichael/)">
@@ -47,7 +45,7 @@
   
   </a>
   <a href="[your-twitter-URL](https://twitter.com/_RhodaMichael)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div> 
   
