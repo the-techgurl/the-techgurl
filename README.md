@@ -11,7 +11,7 @@
 
 
  ### Design Blog Articles.
-  {ACCESSIBILITY A11Y- Color}(https://medium.com/design-bootcamp/accessibility-a11y-color-3f8e73d120bb)
+  {ACCESSIBILITY A11Y- Color(https://medium.com/design-bootcamp/accessibility-a11y-color-3f8e73d120bb)}
   
   {ACCESSIBILITY A11Y- Color}(https://medium.com/design-bootcamp/accessibility-a11y-color-3f8e73d120bb)
   {Stop surprising your users!}(https://medium.com/design-bootcamp/stop-surprising-your-users-68b65a481167)
