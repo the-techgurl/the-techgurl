@@ -36,8 +36,8 @@
 
   ***
 
-  ### 📫How to reach me
-  Find my articles here [Medium](https://medium.com/@Tech_gurl)
+  ### 📫 How to reach me
+  Find my articles here; [Medium](https://medium.com/@Tech_gurl)
 
  <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/rhodamichael/)">
